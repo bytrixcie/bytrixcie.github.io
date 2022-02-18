@@ -1,7 +1,6 @@
-# bytrixcie.github.io
-github page
+## Github Page
+Selamat datang di githubpage saya
 
-
-git add .
-git commit -m "keterangan update"
-pit push -u origin main
+`git add .`
+`git commit -m "keterangan update"`
+`pit push -u origin main`
